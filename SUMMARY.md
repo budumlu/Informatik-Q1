@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Einleitung](README.md)
+* Listen in Java
+* [Wort-Scrabble](chapter1.md)
 * [Hunde bellen](hunde-bellen.md)
 
