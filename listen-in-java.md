@@ -29,8 +29,18 @@ public class BeispielListe {
 
 ## Aufträge
 
-Entfernen: `beispielListe.remove();`  
-Einfügen: `beispielListe.insert();`
+Aktuellen Listeneintrag entfernen: `beispielListe.remove();`  
+Einen neuen Eintrag vor dem aktuellen Listeneintrag einfügen: `beispielListe.insert();`
 
-Navigation: `beispielListe.toFirst()`
+Einen neuen Eintrag hinter den letzten Listeneintrag anhängen: `beispielListe.append();`
+
+Gehe zum ersten Listeneintrag: `beispielListe.toFirst()`
+
+Gehe zum letzten Listeneintrag: `beispielListe.toLast()`
+
+Gehe zum nächsten Listeneintrag: `beispielListe.next()`
+
+Prüfe Zugriff auf einen Listeneintrag: `beispielListe.hasAccess()`
+
+Frage nach Inhalt/Objekt aus der Liste: `beispielListe.getContent()`
 
