@@ -1,6 +1,6 @@
 # Generische Klasse List&lt;ContentType&gt;
 
-## Materialien zu den zentralen NRW-Abiturprüfungen im Fach Informatik 
+## Materialien zu den zentralen NRW-Abiturprüfungen im Fach Informatik
 
 ```
 /**
