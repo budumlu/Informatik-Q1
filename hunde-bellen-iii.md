@@ -10,7 +10,7 @@ Das folgende Sequenzdiagramm stellt den Ablauf zur Berechnungs des Gesamtgewicht
 2. Rückgaben werden mit gestrichelten Pfeilen dargestellt.
 3. Senkrechte _Lebenslinien eines Objekts_ sind entweder gestrichelt (inaktiv) oder ausgefüllt (aktiv).
 
-Sequenzdiagramme visualisieren auf diese Weise den zeitlichen Abluaf der Objektkommunikation.
+Sequenzdiagramme visualisieren auf diese Weise den zeitlichen Ablauf der Objektkommunikation.
 
 
 ![](/assets/IterativSequenz2.png)
@@ -23,8 +23,8 @@ Das folgende Sequenzdiagramm stellt den Ablauf zur Berechnungs des Gesamtgewicht
 
 ## Aufgabe Hundegewicht
 
-1. Formuliere das Vorgehen des Algorithmus zur Berechnung des Gesamtgewichts der Hundestaffel in Worten.
-2. Implementiere beide von Dir beschriebenen Algorithmen.
+1. Formuliere das Vorgehen der beiden oben vorgestellten Algorithmen zur Berechnung des Gesamtgewichts der Hundestaffel in Worten.
+2. Implementiere beide beschriebenen Algorithmen.
 
 
 
