@@ -1,6 +1,6 @@
 # Hunde bellen II
 
-Nun soll das programmierte Beispiel zur [Hundestaffel](/hunde-bellen.md) so verändert werden, dass es die generische Klasse List des Zentralabiturs NRW verwendet.
+Nun soll das programmierte Beispiel zur [Hundestaffel](/hunde-bellen.md) so verändert werden, dass es die generische Klasse `List`des Zentralabiturs NRW verwendet.
 
 Von entscheidender Bedeutung ist dabei die Anfrage `hasAccess()`.
 
