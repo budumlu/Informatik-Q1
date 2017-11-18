@@ -1,5 +1,4 @@
-# Listen in Java
-
+#Datenstruktur Liste
 Um mehrere Objekte in Java zu verwalten, wurden bisher Arrays verwendet, auf die häufig in `for`-Schleifen über den Laufindex `i` zugegriffen wurde. Dieses Beispiel wurde aus dem Landeplatz-Projekt entnommen:
 
 ```java
