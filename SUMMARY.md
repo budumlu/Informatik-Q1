@@ -14,4 +14,6 @@
 ## Anhang
 
 * [Generische Klasse List](anhang/liste.md)
+* [Generische Klasse Stack](anhang/generische-klasse-stack.md)
+* [Generische Klasse Queue](anhang/generische-klasse-queue.md)
 
