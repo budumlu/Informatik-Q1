@@ -9,6 +9,7 @@
   * [Hunde bellen III](hunde-bellen-iii.md)
   * [Wort-Scrabble II](wort-scrabble-ii.md)
 * [Datenstruktur Stapel](datenstruktur-stapel.md)
+  * [Keep or Throw](datenstruktur-stapel/keep-or-throw.md)
 * [Datenstruktur Warteschlange](datenstruktur-warteschlange.md)
 
 ## Anhang

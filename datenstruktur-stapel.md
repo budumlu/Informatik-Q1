@@ -1,1 +1,3 @@
 #Datenstruktur Stapel
+
+Mit Hilfe von Beziehungen lassen sich unterschiedlichste Datenstrukturen programmieren, um Sammlungen von Objekten zu verwalten. Eine solche Datenstruktur ist der **Stapel**, bei dem Objekte wie auf einem Stapel verwaltet werden. Als Anwendung wirst Du das Spiel _Keep or throw_ programmieren, bei dem es darum geht einen möglichst großen Stapel an aufsteigenden Karten zu erspielen.
