@@ -35,4 +35,10 @@ Der Wert einer Karte soll zur Vereinfachung eine ganze Zahl sein. Die Methode `g
 ![](/assets/push2.svg)
 ![](/assets/push3.svg)
 2. Überlege Dir ob und/oder inwiefern sich die Vorgehensweise bei einem leeren Stapel unterscheiden muss.
-3. 
+3. Beim Entfernen einer Karte muss die top-Referenz neu gesetzt und die Karte vom Stapel isoliert werden:
+![](/assets/pop-davor-danach.svg)
+
+Der _Garbage-Collector_ (deutsch: Müllsammler) von Java erkennt Objekte, auf die keine Referenz mehr existiert, und entfernt diese aus dem Speicher. Die Karte mit dem Wert 8 kann dann entfernt werden. (Knobelaufgabe: Warum ist es notwendig, dazu auch das `next`-Attribut der zu entfernenden Karte auf `null` zu setzen? Beschreibe eine entsprechende Situation.)
+4. Zeichne in das Objektdiagramm ähnlich der obigen Darstellung die Schritte ein, die notwendig sind, um das oberste Element des Stapels zu löschen und anschließend zurückzugeben. Benutze dazu eine entsprechende Software. Tipp: Du benötigst eine lokale Variable. 
+5. Teste die `pop`-Methode und teste sie mit Hilfe des Objektinspektors. Überlege Dir inwiefern die Vorgehensweise sich bei einem leeren Stapel unterscheiden muss.
+6. Teste das Spiel ausführlich und verändere es, mit eigenen Ideen :-)
