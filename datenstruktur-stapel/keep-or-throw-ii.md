@@ -10,4 +10,4 @@ Insgesamt ist der Entwurf also richtig, lässt sich aber nicht direkt für ander
 ## Generische Klassen
 Um die oben genannten Schwächen zu umgehen und die Stapel-Klasse auch für andere Projekte nutzen zu können ohne die *Typsicherheit* in Java aufzugeben, verwendet man sogenannte **generische Klassen** oder **parametrisierte Klassen**. Der Begriff _generische Klasse_ ist etwas geläufiger, der Begriff _parametrisierte Klasse_ beschreibt das Konzept aber deutlicher. Eine generische oder parametrisierte Klasse erhält einen Typ-Parameter, der innerhalb der Klasse benutzt werden kann. Der Typ-Parameter wird in spitzen Klammern hinter den Klassennamen geschrieben und kann dann innerhalb der Klasse wie ein konkreter Datentyp benutzt werden. 
 ##Aufgabe
-Nimm die erste Version des *Keep or throw*-Spiels als Grundlage und vollziehe die Erklärungen nach, indem Du dieses selbst so anpasst, dass es die generische Klasse Queue für NRW (siehe Anhang) verwendet.
+Nimm die erste Version des *Keep or throw*-Spiels als Grundlage und vollziehe die Erklärungen nach, indem Du dieses selbst so anpasst, dass es die generische Klasse Stack für NRW (siehe Anhang) verwendet.
