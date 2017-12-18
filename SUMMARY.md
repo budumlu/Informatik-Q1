@@ -1,5 +1,7 @@
 # Summary
 
+## Projekte
+
 * [Einleitung](README.md)
 * Hello World!
 * [Datenstruktur Liste](listen-in-java.md)
@@ -12,9 +14,9 @@
   * [Keep or Throw](datenstruktur-stapel/keep-or-throw.md)
   * [Keep or throw II](datenstruktur-stapel/keep-or-throw-ii.md)
 * [Datenstruktur Warteschlange](datenstruktur-warteschlange.md)
-* [Platz da!](platz-da.md)
-* [Konzept der Warteschlange](konzept-der-warteschlange.md)
-* [Spielelogik](spielelogik.md)
+  * [Platz da!](platz-da.md)
+  * [Konzept der Warteschlange](konzept-der-warteschlange.md)
+  * [Spielelogik](spielelogik.md)
 
 ## Anhang
 
