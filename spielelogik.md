@@ -28,6 +28,12 @@ boolean tippIstRichtig(String tipp) {
         return false;
 }
 ```
+#Spielen
+Schließlich fehlt nur noch die Methode zur Durchführung des eigentlichen Spiels. Der Spieler, der an der Reihe ist, muss nun den Namen der vordersten Person auf dem Stamm tippen. Gelingt ihm dies, wird diese entfernt und eine neue Person hinzugefügt. Der Name der neuen Person wird vom Spieler eingegeben. Dies wird so lange wiederholt bis ein Spieler einen falschen Namen eingibt. Hinweis: Durch Ausgabe der Zeichenkette "\f" kann man die Ausgabe löschen. (Sonderzeichen für "form feed" also Seitenvorschub auf einer Schreibmaschine) Schließlich sollen die alten Namen ja nicht mehr zu sehen sein. 
+
+**Aufgabe:**
+Implementiere die Methode `spielen`, so dass alle Ein- und Ausgaben automatisch gesteuert werden. 
+![](http://inf-schule.de/content/programmierung/oopjava/beziehungen/platzda/spielelogik/spielen.svg)
 
 
 
