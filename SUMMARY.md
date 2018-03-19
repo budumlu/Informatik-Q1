@@ -23,6 +23,9 @@
 
 ## Suchen & Sortieren
 
+* [Sortieralgorithmen](suchen-and-sortieren/sortieralgorithmen.md)
+* Bundesjugendspiele
+
 ## Datenbanken
 
 * [Tabellen](datenbanken/projekt-soziales-netzwerk/tabellen.md)
