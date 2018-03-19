@@ -7,4 +7,4 @@
     * Sortieren durch Tauschen (Bubblesort)
     * Quicksort
 
-2. Erstellen Sie in Gruppenarbeit ein Plakat zu einem der Soriterverfahren und bereiten Sie die Vorstellung des Plakates vor.
+2. Erstellen Sie in Gruppenarbeit ein Plakat zu einem der Sortierverfahren und bereiten Sie die Vorstellung des Plakates vor.
