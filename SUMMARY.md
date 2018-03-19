@@ -24,7 +24,9 @@
 ## Suchen & Sortieren
 
 * [Sortieralgorithmen](suchen-and-sortieren/sortieralgorithmen.md)
-* Bundesjugendspiele
+* [Karten sortieren](suchen-and-sortieren/karten-sortieren.md)
+* [Bundesjugendspiele](suchen-and-sortieren/bundesjugendspiele.md)
+* Effizienz verschiedener Sortieralgorithmen
 
 ## Datenbanken
 
