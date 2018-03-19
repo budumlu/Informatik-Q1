@@ -1,9 +1,12 @@
 # Summary
 
-## Projekte
+## Objektorientiertes Modellieren
 
 * [Einleitung](README.md)
-* Hello World!
+* [Hello World!](hello-world.md)
+
+## Lineare Datenstrukturen
+
 * [Datenstruktur Liste](listen-in-java.md)
   * [Wort-Scrabble](chapter1.md)
   * [Hunde bellen](hunde-bellen.md)
@@ -17,6 +20,10 @@
   * [Platz da!](platz-da.md)
   * [Konzept der Warteschlange](konzept-der-warteschlange.md)
   * [Spielelogik](spielelogik.md)
+
+## Suchen & Sortieren
+
+## Datenbanken
 
 ## Anhang
 
