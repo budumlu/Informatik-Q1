@@ -1,4 +1,4 @@
-# Tabellen
+# Vom Quipu zur Tabelle
 Jede Zivilisation benötigt eine Methode, um Wissen an andere Mitglieder einer Gruppe weiterzugeben.
 
 Die Frühmenschen nutzen dafür nur das gesprochene Wort. Um Informationen konnten aber auch über symbolische Piktogramme (z.B. Felsmalereien) weitergegeben werden.
