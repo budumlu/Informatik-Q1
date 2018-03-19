@@ -24,5 +24,6 @@ Quelle: https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/6637
 2. Welche Nachteile könnte diese Form des Informationssystems haben?
 3. Analysieren Sie die Form der [Tabellen](http://khipukamayuq.fas.harvard.edu/DataTables.html) der Forscher aus Harvard und die Informationen, die diese Tabellen enthalten.
 
+
 **Weiterführende Links**
 * https://www.spektrum.de/magazin/die-quipus-der-inka/1184815
