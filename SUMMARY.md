@@ -25,9 +25,10 @@
 
 ## Datenbanken
 
+* [Tabellen](datenbanken/projekt-soziales-netzwerk/tabellen.md)
+* [Datenbanksystem](datenbanken/projekt-soziales-netzwerk/datenbanksystem.md)
 * [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk.md)
-  * [Tabellen](datenbanken/projekt-soziales-netzwerk/tabellen.md)
-  * [Datenbanksystem](datenbanken/projekt-soziales-netzwerk/datenbanksystem.md)
+  * SQL-Datenbank
 
 ## Anhang
 
