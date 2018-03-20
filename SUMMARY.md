@@ -33,7 +33,7 @@
 * [Vom Quipu zur Tabelle](datenbanken/projekt-soziales-netzwerk/tabellen.md)
 * [Datenbanksystem](datenbanken/projekt-soziales-netzwerk/datenbanksystem.md)
 * [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk.md)
-  * SQL-Datenbank
+  * [SQL-Datenbank](datenbanken/projekt-soziales-netzwerk/sql-datenbank.md)
 
 ## Anhang
 
