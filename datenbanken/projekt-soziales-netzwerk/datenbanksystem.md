@@ -9,3 +9,9 @@ Auch die Forscher aus Harvard haben die gesammelten Informationen zu den Quipus 
 ## Datenbankmodelle
 
 ## Relationale Datenbankmodell
+![](http://www.inf-schule.de/content/1-information/4-datenbanksysteme/1-terra/1-relationaledb/2-konzept_tabelle/begriffe_tabelle.svg)
+
+![](http://www.inf-schule.de/content/1-information/4-datenbanksysteme/1-terra/1-relationaledb/2-konzept_tabelle/nicht_atomare_werte.svg)
+
+#### Lizenzen
+Tabellen zum Relationalen Datenbankmodell: Urheber: Thomas Mohr - Lizenz: Inf-Schule.dehttp://inf-schule.de/infschule/lizenz
