@@ -2,7 +2,6 @@
 
 ## Materialien zu den zentralen NRW-Abiturprüfungen im Fach Informatik
 
-
 ```java
 /**
  * <p>
@@ -130,6 +129,5 @@ public class Stack<ContentType> {
     }
   }
 }
-
 ```
 

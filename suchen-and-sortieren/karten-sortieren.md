@@ -1,6 +1,6 @@
 # Karten sortieren
 
-![](/assets/Karten_sortieren.png)
+![](../.gitbook/assets/karten_sortieren.png)
 
 **Aufgaben**  
 1. Implementieren Sie mindestens zwei der folgenden Sortieralgorithmen:
@@ -86,7 +86,7 @@ public class Karte
 
     private GLTafel dieTafel;
     private int platz, nummer;
-    
+
     public Karte(int pP, int pN)
     {
         this.setzeNummer(pN);
@@ -95,13 +95,13 @@ public class Karte
         dieTafel.drehe(270,0,0);
         dieTafel.setzeText(""+nummer,20);
     }
-    
+
     public void verschiebe(int x, int y, int z)
     {
         dieTafel.verschiebe(x,y,z);
     }
 
-    
+
     public float gibX()
     {
         return dieTafel.gibX();   
@@ -122,17 +122,17 @@ public class Karte
         return this.platz;
 
     }
-    
+
     public void setzeNummer(int pNummer)
     {
         this.nummer = pNummer;
     }
-    
+
     public int gibNummer()
     {
         return this.nummer;
     }
-    
+
     public void markiere(int pF)
     {
         if(pF==1) dieTafel.setzeFarbe(1,0,0);
@@ -142,12 +142,7 @@ public class Karte
 }
 ```
 
-##### Lizenz der sichtbaren Holztextur
+## Lizenz der sichtbaren Holztextur
 
-<a href="https://www.flickr.com/photos/benhosking/4455687333">“2010_2303 - Wood Textures_5”</a>
-by  <i> <a href="https://www.flickr.com/people/benhosking/">Ben Hosking</a> </i> is licensed under<a href="https://creativecommons.org/licenses/by/2.0"> CC BY 2.0</a>
-
-
-
-
+[“2010\_2303 - Wood Textures\_5”](https://www.flickr.com/photos/benhosking/4455687333) by  [Ben Hosking](https://www.flickr.com/people/benhosking/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 

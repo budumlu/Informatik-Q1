@@ -2,7 +2,7 @@
 
 ## Materialien zu den zentralen NRW-Abiturprüfungen im Fach Informatik
 
-```
+```text
 /**
  * <p>
  * Materialien zu den zentralen NRW-Abiturpruefungen im Fach Informatik ab 2017.
@@ -347,6 +347,4 @@ public class List<ContentType> {
 
 }
 ```
-
-
 

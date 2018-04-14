@@ -1,3 +1,5 @@
+# Hunde bellen
+
 ## Hunde, die bellen, beißen nicht
 
 ### Listen von Wortkarten
@@ -25,7 +27,7 @@ Wir gehen in den folgenden Beispielen von einer Klasse
 
 aus:
 
-```
+```text
 class Hund {
    void bellen() {
       System.out.println("Wuff!");
@@ -103,7 +105,7 @@ for(Hund h: liste) { // Lies: Für jeden Hund h aus liste
 
 ## Hund-Klasse
 
-Einige Übungen gehen von der Verwendung der Klasse`Hund`aus. Ein Hund bekommt bei der Erzeugung einen zufälligen Namen zugewiesen. Er kann bellen und gibt dabei seinen Namen aus. Die Klasse`Hund`kannst Du Dir [hier herunterladen](http://www.inf-schule.de/content/programmierung/oopjava/experten/listen/uebungen/Hund.java "Hund-Klasse").
+Einige Übungen gehen von der Verwendung der Klasse`Hund`aus. Ein Hund bekommt bei der Erzeugung einen zufälligen Namen zugewiesen. Er kann bellen und gibt dabei seinen Namen aus. Die Klasse`Hund`kannst Du Dir [hier herunterladen](http://www.inf-schule.de/content/programmierung/oopjava/experten/listen/uebungen/Hund.java).
 
 ### Aufgabe Dokumentation lesen
 
@@ -118,15 +120,18 @@ Auch wenn Du nicht alle Details verstehen wirst, kannst Du die wesentlichen Info
 
 Lass Dich nicht von der Tatsache verwirren, dass manche Methoden das gleiche bewirken. Das liegt daran, dass eine Liste z.B. auch als Warteschlange oder Stapel benutzt werden kann und dann teilweise andere Methodennamen üblich sind.
 
+Diese Aufgabe stammt von 
 
+[inf-schule.de](https://github.com/budumlu/Informatik-Q1/tree/54b69ff3ede27c2f3a46e62c9db6ea1d42e48439/www.inf-schule.de)
 
-Diese Aufgabe stammt von [inf-schule.de](www.inf-schule.de) und steht daher unter folgender Lizenz:
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+ und steht daher unter folgender Lizenz: 
 
+![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
+  
+Dieses Werk ist lizenziert unter einer 
 
+[Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
-
-
+.
 

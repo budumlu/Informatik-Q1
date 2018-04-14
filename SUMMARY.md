@@ -1,25 +1,27 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Objektorientiertes Modellieren
 
-* [Einleitung](README.md)
-* [Hello World!](hello-world.md)
+* [Einleitung](objektorientiertes-modellieren/einleitung.md)
+* [Hello World!](objektorientiertes-modellieren/hello-world.md)
 
 ## Lineare Datenstrukturen
 
-* [Datenstruktur Liste](listen-in-java.md)
-  * [Wort-Scrabble](chapter1.md)
-  * [Hunde bellen](hunde-bellen.md)
-  * [Hunde bellen II](hunde-bellen-ii.md)
-  * [Hunde bellen III](hunde-bellen-iii.md)
-  * [Wort-Scrabble II](wort-scrabble-ii.md)
-* [Datenstruktur Stapel](datenstruktur-stapel.md)
-  * [Keep or Throw](datenstruktur-stapel/keep-or-throw.md)
-  * [Keep or throw II](datenstruktur-stapel/keep-or-throw-ii.md)
-* [Datenstruktur Warteschlange](datenstruktur-warteschlange.md)
-  * [Platz da!](platz-da.md)
-  * [Konzept der Warteschlange](konzept-der-warteschlange.md)
-  * [Spielelogik](spielelogik.md)
+* [Datenstruktur Liste](lineare-datenstrukturen/datenstruktur-liste/README.md)
+  * [Wort-Scrabble](lineare-datenstrukturen/datenstruktur-liste/wort-scrabble.md)
+  * [Hunde bellen](lineare-datenstrukturen/datenstruktur-liste/hunde-bellen.md)
+  * [Hunde bellen II](lineare-datenstrukturen/datenstruktur-liste/hunde-bellen-ii.md)
+  * [Hunde bellen III](lineare-datenstrukturen/datenstruktur-liste/hunde-bellen-iii.md)
+  * [Wort-Scrabble II](lineare-datenstrukturen/datenstruktur-liste/wort-scrabble-ii.md)
+* [Datenstruktur Stapel](lineare-datenstrukturen/datenstruktur-stapel/README.md)
+  * [Keep or Throw](lineare-datenstrukturen/datenstruktur-stapel/keep-or-throw.md)
+  * [Keep or throw II](lineare-datenstrukturen/datenstruktur-stapel/keep-or-throw-ii.md)
+* [Datenstruktur Warteschlange](lineare-datenstrukturen/datenstruktur-warteschlange/README.md)
+  * [Platz da!](lineare-datenstrukturen/datenstruktur-warteschlange/platz-da.md)
+  * [Konzept der Warteschlange](lineare-datenstrukturen/datenstruktur-warteschlange/konzept-der-warteschlange.md)
+  * [Spielelogik](lineare-datenstrukturen/datenstruktur-warteschlange/spielelogik.md)
 
 ## Suchen & Sortieren
 
@@ -31,14 +33,14 @@
 
 ## Datenbanken
 
-* [Vom Quipu zur Tabelle](datenbanken/projekt-soziales-netzwerk/tabellen.md)
-* [Datenbanksystem](datenbanken/projekt-soziales-netzwerk/datenbanksystem.md)
-* [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk.md)
+* [Vom Quipu zur Tabelle](datenbanken/vom-quipu-zur-tabelle.md)
+* [Datenbanksystem](datenbanken/datenbanksystem.md)
+* [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk/README.md)
   * [SQL-Datenbank](datenbanken/projekt-soziales-netzwerk/sql-datenbank.md)
 
 ## Anhang
 
-* [Generische Klasse List](anhang/liste.md)
+* [Generische Klasse List](anhang/generische-klasse-list.md)
 * [Generische Klasse Stack](anhang/generische-klasse-stack.md)
 * [Generische Klasse Queue](anhang/generische-klasse-queue.md)
 

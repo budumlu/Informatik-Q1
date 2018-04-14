@@ -1,4 +1,4 @@
-# Wort Scrabble
+# Wort-Scrabble
 
 ## Spielidee
 
@@ -18,8 +18,18 @@ Das Spiel ist beendet, wenn der Spieler zehn Karten gezogen hat. Er darf nun noc
 
 In der oben beschriebenen Variante spielt ein Spieler ein Spiel alleine. Bei mehreren Spielern spielt jeder Spieler nacheinander ein Spiel oder alle spielen reihum mit einem gemeinsamen Kartenstapel. Der Spieler mit der höchsten Punktzahl gewinnt.
 
+Diese Aufgabe stammt von 
 
-Diese Aufgabe stammt von [inf-schule.de](www.inf-schule.de) und steht daher unter folgender Lizenz:
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+[inf-schule.de](https://github.com/budumlu/Informatik-Q1/tree/54b69ff3ede27c2f3a46e62c9db6ea1d42e48439/www.inf-schule.de)
 
+ und steht daher unter folgender Lizenz: 
+
+![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+  
+Dieses Werk ist lizenziert unter einer 
+
+[Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+.
 
