@@ -35,6 +35,7 @@
 
 * [Vom Quipu zur Tabelle](datenbanken/vom-quipu-zur-tabelle.md)
 * [Datenbanksystem](datenbanken/datenbanksystem.md)
+* [Datenmodellierung Stadtbücherei](datenbanken/datenmodellierung-stadtbuecherei.md)
 * [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk/README.md)
   * [SQL-Datenbank](datenbanken/projekt-soziales-netzwerk/sql-datenbank.md)
 

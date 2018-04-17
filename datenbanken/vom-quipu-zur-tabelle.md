@@ -32,7 +32,13 @@ Einer der Quipus scheint auch eine [Art Kalender](http://khipukamayuq.fas.harvar
 
 Quelle: [https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/6637/LAQ25\_2\_Hyland.pdf](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/6637/LAQ25_2_Hyland.pdf)
 
-**Aufgabe** 1. Begründen Sie, warum die Knotenschrift der Inka für diese eine gut geeignete Methde gewesen sein könnte, um Informationen zu speichern. 2. Welche Nachteile könnte diese Form des Informationssystems haben? 3. Analysieren Sie die Form der [Tabellen](http://khipukamayuq.fas.harvard.edu/DataTables.html) der Forscher aus Harvard und die Informationen, die diese Tabellen enthalten.
+{% hint style="success" %}
+**Aufgaben**
+
+1. Begründen Sie, warum die Knotenschrift der Inka für diese eine gut geeignete Methode gewesen sein könnte, um Informationen zu speichern.
+2. Welche Nachteile könnte diese Form des Informationssystems haben?
+3. Analysieren Sie die Form der [Tabellen](http://khipukamayuq.fas.harvard.edu/DataTables.html) der Forscher aus Harvard und die Informationen, die diese Tabellen enthalten.
+{% endhint %}
 
 **Weiterführende Links**
 
