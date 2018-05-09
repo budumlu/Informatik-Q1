@@ -18,7 +18,20 @@ FROM Tabelle(n)
 [WHERE Bedingung(en)]
 ```
 
-Dabei wird der erste Zeile als Projektion bezeichnet. Die dritte Zeile wird **Selektion genannt**
+
+
+Dabei wird der erste Zeile als **Projektion** bezeichnet. Die dritte Zeile wird **Selektion **genannt. Diese Selektion ist optional und kann auch entfallen.
+
+{% hint style="success" %}
+**Aufgaben**
+
+1. Wähle alle Einträge aus der Tabelle users aus.
+2. Gib alle Benutzernamen \(username\) aus users aus.
+3. Gib alle Benutzernamen \(username\) und echten Namen \(name\) aller Einträge aus users aus.
+4. Gib die Wohnorte aller Mitglieder aus.
+
+-&gt; Dokumentiert Eure Projektionen auf hackmd.io
+{% endhint %}
 
 
 
