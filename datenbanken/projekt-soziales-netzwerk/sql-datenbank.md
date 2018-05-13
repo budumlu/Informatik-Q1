@@ -53,3 +53,15 @@ Mit Hilfe der Selektion kann ausgewählt werden, welche **Zeilen **angezeigt wer
 7. Notiere was != bedeutet.
 {% endhint %}
 
+### Weitere SQL-Sprachbefehle
+
+Im Anhang finden Sie weitere [SQL-Sprachelemente](../../anhang/sql-sprachelemente.md) zum Filtern der Daten mit logischen Operatoren, Vergleichoperatoren, Aggregatfunktionen, zum Gruppieren, zur Vereinigung\(UNION\) oder zum Verbund \(JOIN\) von Relationen. Finde zu jedem Sprachbefehl mindestens eine Anwendungsmöglichkeit auf der Datenbank des sozialen Netzwerks. 
+
+{% hint style="success" %}
+**Aufgabe**
+
+Teilt dabei die Befehle unter Euch auf und erstellt auf [https://hackmd-ce.herokuapp.com/](https://hackmd-ce.herokuapp.com/) eine Übersicht, die ihr dann als Präsentation verwenden könnt \([https://hackmd-ce.herokuapp.com/slide-example\#](https://hackmd-ce.herokuapp.com/slide-example#) \).
+{% endhint %}
+
+
+
