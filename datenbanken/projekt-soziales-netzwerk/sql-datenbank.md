@@ -22,16 +22,34 @@ FROM Tabelle(n)
 
 Dabei wird der erste Zeile als **Projektion** bezeichnet. Die dritte Zeile wird **Selektion **genannt. Diese Selektion ist optional und kann auch entfallen.
 
+### Projektion
+
+Mit Hilfe von Projektionen kann ausgewählt werden, welche **Spalten** ausgegeben werden sollen. Recherchiere ggf. im Internet um die Aufgabe zu lösen.
+
 {% hint style="success" %}
 **Aufgaben**
 
-1. Wähle alle Einträge aus der Tabelle users aus.
-2. Gib alle Benutzernamen \(username\) aus users aus.
-3. Gib alle Benutzernamen \(username\) und echten Namen \(name\) aller Einträge aus users aus.
-4. Gib die Wohnorte aller Mitglieder aus.
-
--&gt; Dokumentiert Eure Projektionen auf hackmd.io
+1. Gib alle Benutzernamen \(username\) aus users aus.
+2. Gib alle Benutzernamen \(username\) und echten Namen \(name\) aller Einträge aus users aus.
+3. Gib die Wohnorte aller Mitglieder aus.
+4. Wähle alle Einträge aus der Tabelle users aus.
 {% endhint %}
 
+### Selektion
 
+Mit Hilfe der Selektion kann ausgewählt werden, welche **Zeilen **angezeigt werden sollen**.**
+
+
+
+{% hint style="success" %}
+**Aufgaben**
+
+1. Wähle alle Einträge aus der Tabelle users aus, bei denen das Geschlecht \(gender\) weiblich \(female\) ist.
+2. Wähle alle Mitglieder aus Deutschland aus.
+3. Wähle alle Mitglieder aus, die in Leipzig wohnen.
+4. Zeige nur _Emily Faber_ an.
+5. Wähle alle Mitglieder mit der Rolle _user_ aus.
+6. Ersetze in Aufgabe 5 = durch != .
+7. Notiere was != bedeutet.
+{% endhint %}
 
