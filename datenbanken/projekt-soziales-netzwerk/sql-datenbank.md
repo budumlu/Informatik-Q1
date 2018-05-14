@@ -60,7 +60,7 @@ Im Anhang finden Sie weitere [SQL-Sprachelemente](../../anhang/sql-sprachelement
 {% hint style="success" %}
 **Aufgabe**
 
-Teilt dabei die Befehle unter Euch auf und erstellt auf [https://hackmd-ce.herokuapp.com/](https://hackmd-ce.herokuapp.com/) eine Übersicht, die ihr dann als Präsentation verwenden könnt \([https://hackmd-ce.herokuapp.com/slide-example\#](https://hackmd-ce.herokuapp.com/slide-example#) \).
+Teilen Sie dabei die Befehle unter Ihnen auf, und erstellt auf [https://hackmd-ce.herokuapp.com/](https://hackmd-ce.herokuapp.com/) eine Präsentation. Als Vorlage dient Ihnen folgendes Dokument: [https://hackmd-ce.herokuapp.com/s/BksxQAIAG\#](https://hackmd-ce.herokuapp.com/s/BksxQAIAG#). Weitere Tipps zu Gestaltung der Präsentation  finden Sie hier: [https://hackmd-ce.herokuapp.com/slide-example\#](https://hackmd-ce.herokuapp.com/slide-example#) .
 {% endhint %}
 
 
