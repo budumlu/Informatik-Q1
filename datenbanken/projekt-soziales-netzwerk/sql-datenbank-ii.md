@@ -45,3 +45,33 @@ SELECT username, name FROM users where city = "Berlin" AND (gender = "male" OR g
 2. Die Bundeswehr sucht Rekruten gib die Namen aller Männer über 165cm und alle Frauen über 160cm aus.
 3. Erna sucht eine Bekannte aus Berlin. Ihr Vorname war entweder _Bea_ oder _Naomi_.
 
+### Verändern von Daten
+
+#### INSERT
+
+Füge zwei ausgedachte Datensätze nach folgendem Muster ein:
+
+```sql
+INSERT INTO users (username, email, password, name, bio, gender, birthday, city, country, centimeters, avatar, role, is_active, remember_token, created_at, updated_at) 
+VALUES ('guenther37', 'guenther@instahub.app', '12345', 'Günther Müller', 'Günther mag Kartoffelsalat.', 'male', '2006-06-06 00:00:00', 'Leipzig', 'Deutschland', '173', 'avatar.png', 'user', '0', NULL, now(), now());
+```
+
+Was bedeutet `now()`?
+
+Expertenaufgabe: Wieso wird in dem obigen SQL-Befehl die ID nicht mit übergeben?
+
+1. Welche ID hat der neue Datensatz? Auf welche Arten können diese ermittelt werden?
+2. Füge den User _Mila Bach_ aus Hamburg hinzu. Du kannst dir die fehlenden Attribute selbst ausdenken.
+3. Registriere dich in deinem InstaHub \([https://_hub_.instahub.org/](https://wi-wissen.github.io/instahub-doc-de/#/exercices?id)\) als neues Mitglied.
+4. Logge dich anschließend wieder als _admin_ ein und prüfe die ID des neuen Mitglieds.
+
+#### [UPDATE](https://wi-wissen.github.io/instahub-doc-de/#/exercices?id=update) {#update}
+
+1. Setze die Körpergröße von allen Mitgliedern auf 160.
+2. Ändere in dem zuletzt hinzugefügten Eintrag die Stadt auf Dresden. \(Du kannst die ID mit einem extra SELECT-Befehl ermitteln.\)
+3. Ersetze den Begriff "Germany" überall durch "Deutschland"
+
+### DELETE
+
+Lösche einen Datensatz.
+
