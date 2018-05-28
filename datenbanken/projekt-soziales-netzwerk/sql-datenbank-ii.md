@@ -71,7 +71,7 @@ Expertenaufgabe: Wieso wird in dem obigen SQL-Befehl die ID nicht mit übergeben
 2. Ändere in dem zuletzt hinzugefügten Eintrag die Stadt auf Dresden. \(Du kannst die ID mit einem extra SELECT-Befehl ermitteln.\)
 3. Ersetze den Begriff "Germany" überall durch "Deutschland"
 
-### DELETE
+#### DELETE
 
 Lösche einen Datensatz.
 
