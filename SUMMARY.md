@@ -38,6 +38,7 @@
 * [Datenmodellierung Stadtbücherei](datenbanken/datenmodellierung-stadtbuecherei.md)
 * [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk/README.md)
   * [SQL-Datenbank](datenbanken/projekt-soziales-netzwerk/sql-datenbank.md)
+  * [SQL-Datenbank II](datenbanken/projekt-soziales-netzwerk/sql-datenbank-ii.md)
 
 ## Anhang
 

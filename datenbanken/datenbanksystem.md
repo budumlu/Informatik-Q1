@@ -21,7 +21,7 @@ Der Begriff "relational" kommt von einer mathematischen Betrachtung einer Datenb
 
 1. Diskutiert welche Vorteile moderne Datenbanksysteme haben und erläutere diese Vorteile schriftlich anhand von verschiedenen Anwendungsfällen, in denen Datenbanken zum Tragen kommen.
 2. Übertragen Sie diese Tabelle in ihr Heft, recherchieren Sie die Bedeutung der Bezeichnungen, die in der obigen Tabelle aufgeführt sind,  und notieren Sie diese zu der Tabelle.
-3. Recherchieren Sie den Bergiff **atomar **im Zusammenhang mit dem relationalen Datenbank-Modell und beurteilen Sie die Korrektheit der unten abgebildeten Tabelle.
+3. Recherchieren Sie den Bergiff **atomar** im Zusammenhang mit dem relationalen Datenbank-Modell und beurteilen Sie die Korrektheit der unten abgebildeten Tabelle.
 {% endhint %}
 
 ![](http://www.inf-schule.de/content/1-information/4-datenbanksysteme/1-terra/1-relationaledb/2-konzept_tabelle/nicht_atomare_werte.svg)

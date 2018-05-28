@@ -20,7 +20,7 @@ FROM Tabelle(n)
 
 
 
-Dabei wird der erste Zeile als **Projektion** bezeichnet. Die dritte Zeile wird **Selektion **genannt. Diese Selektion ist optional und kann auch entfallen.
+Dabei wird der erste Zeile als **Projektion** bezeichnet. Die dritte Zeile wird **Selektion** genannt. Diese Selektion ist optional und kann auch entfallen.
 
 ### Projektion
 
@@ -37,7 +37,7 @@ Mit Hilfe von Projektionen kann ausgewählt werden, welche **Spalten** ausgegebe
 
 ### Selektion
 
-Mit Hilfe der Selektion kann ausgewählt werden, welche **Zeilen **angezeigt werden sollen**.**
+Mit Hilfe der Selektion kann ausgewählt werden, welche **Zeilen** angezeigt werden sollen**.**
 
 
 

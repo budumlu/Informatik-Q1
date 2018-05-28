@@ -109,7 +109,7 @@ Einige Übungen gehen von der Verwendung der Klasse`Hund`aus. Ein Hund bekommt b
 
 ### Aufgabe Dokumentation lesen
 
-**Aufgabe: **Suche in einer Suchmaschine nach den Begriffen "LinkedList Java". Einer der ersten Treffer sollte zur [offizielle Dokumentation](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) der Klasse`LinkedList`führen. Analog kannst Du die Dokumentation anderer Java-Klassen finden.
+**Aufgabe:** Suche in einer Suchmaschine nach den Begriffen "LinkedList Java". Einer der ersten Treffer sollte zur [offizielle Dokumentation](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) der Klasse`LinkedList`führen. Analog kannst Du die Dokumentation anderer Java-Klassen finden.
 
 Auch wenn Du nicht alle Details verstehen wirst, kannst Du die wesentlichen Informationen erfassen. Finde und teste Methoden zum:
 
