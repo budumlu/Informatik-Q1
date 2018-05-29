@@ -78,6 +78,6 @@ Lösche einen Datensatz.
 {% hint style="success" %}
 Erstellen Sie neue Tabellen für das soziale Netzwerk:
 
-https://wi-wissen.github.io/instahub-doc-de/\#/exercises?id=tabelle-photo
+[https://wi-wissen.github.io/instahub-doc-de/\#/exercices?id=tabelle-photo](https://wi-wissen.github.io/instahub-doc-de/#/exercices?id=tabelle-photo)
 {% endhint %}
 
