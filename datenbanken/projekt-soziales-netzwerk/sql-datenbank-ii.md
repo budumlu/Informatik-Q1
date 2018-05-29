@@ -75,3 +75,9 @@ Expertenaufgabe: Wieso wird in dem obigen SQL-Befehl die ID nicht mit übergeben
 
 Lösche einen Datensatz.
 
+{% hint style="success" %}
+Erstellen Sie neue Tabellen für das soziale Netzwerk:
+
+https://wi-wissen.github.io/instahub-doc-de/\#/exercises?id=tabelle-photo
+{% endhint %}
+
