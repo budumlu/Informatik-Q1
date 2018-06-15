@@ -28,7 +28,7 @@
 * [Sortieralgorithmen](suchen-and-sortieren/sortieralgorithmen.md)
 * [Karten sortieren](suchen-and-sortieren/karten-sortieren.md)
 * [Bundesjugendspiele](suchen-and-sortieren/bundesjugendspiele.md)
-* Binäre Suche
+* [Binäre Suche](suchen-and-sortieren/binaere-suche.md)
 * [Effizienz verschiedener Sortieralgorithmen](suchen-and-sortieren/effizienz-verschiedener-sortieralgorithmen.md)
 
 ## Datenbanken
@@ -39,6 +39,7 @@
 * [Projekt: Soziales Netzwerk](datenbanken/projekt-soziales-netzwerk/README.md)
   * [SQL-Datenbank](datenbanken/projekt-soziales-netzwerk/sql-datenbank.md)
   * [SQL-Datenbank II](datenbanken/projekt-soziales-netzwerk/sql-datenbank-ii.md)
+  * [SQL-Datenbank III](datenbanken/projekt-soziales-netzwerk/sql-datenbank-iii.md)
 
 ## Anhang
 
